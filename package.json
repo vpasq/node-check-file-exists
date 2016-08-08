@@ -1,0 +1,30 @@
+
+{
+  "name": "check-file-exists",
+  "version": "1.0.0",
+  "description": "file exists that is not depreciated"
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },    
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpasq/node-check-file-exists.git"
+  },
+  "keywords": [
+    "file",
+    "check",
+    "create",
+    "exists",
+    "fs",
+    "isfile"
+  ],
+  "author": "Vince Pasquariello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vpasq/node-check-file-exists/issues"
+  },  
+  "homepage": "https://github.com/vpasq/node-check-file-exists#readme"
+}
+
+
