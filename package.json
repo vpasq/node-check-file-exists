@@ -1,7 +1,7 @@
 
 {
   "name": "check-file-exists",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "file exists that is not depreciated",
   "main": "index.js",
   "scripts": {
