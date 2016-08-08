@@ -2,7 +2,7 @@
 {
   "name": "check-file-exists",
   "version": "1.0.0",
-  "description": "file exists that is not depreciated"
+  "description": "file exists that is not depreciated",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
