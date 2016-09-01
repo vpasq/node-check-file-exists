@@ -1,7 +1,6 @@
-
 {
   "name": "check-file-exists",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Check if file exists",
   "main": "index.js",
   "scripts": {

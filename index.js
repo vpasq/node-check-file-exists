@@ -13,12 +13,12 @@ module.exports = function checkFileExists(file, callback) {
 
       }
 
-      if (err) throw err;
+      callback(err);
 
     }
 
     //console.log("File exists: " + file);
-    return callback(null, true);
+    return callback(null, stats.isFile());
 
   });
 
