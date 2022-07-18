@@ -18,7 +18,7 @@
     "fs",
     "isfile"
   ],
-  "author": "Vince Pasquariello",
+  "author": "Vincent Pasquariello",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vpasq/node-check-file-exists/issues"
